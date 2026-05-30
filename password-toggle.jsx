@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export function App() {
+export function PasswordToggle() {
 
     const [show, setShow] = useState(false);
 
